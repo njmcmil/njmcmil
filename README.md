@@ -1,5 +1,5 @@
 Contact
 email: njmcmillan04@gmail.com
 
-My Website: 
+My Portfolio: 
 https://njmcmil.github.io/
